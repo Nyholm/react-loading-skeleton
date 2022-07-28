@@ -43,7 +43,6 @@
         "*.{md,js,cjs,yml,json}": "prettier --write"
     },
     "browserslist": [
-        "maintained node versions",
         "> 0.25%",
         "not dead",
         "not IE 11"
